@@ -1,1 +1,2 @@
 - crawling code for collecting real estate data
+- other informations(about apartment data that I used in the code is not uploaded(the greta 주식회사의 내부 정보입니다))
